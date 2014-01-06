@@ -1,0 +1,2 @@
+A project in Processing modeling particles in a bi-directional, adjustable
+gravity fields with collision detection and motion dampening.
